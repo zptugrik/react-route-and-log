@@ -17,12 +17,13 @@ Browser support: Chrome and Firefox
 Для визуального оформления, можно взять любую библиотеку готовых компонентов или компонентый CSS фреймворк.
  
 <h1>Packages</h1>
+<pre>
 Log by react-firebaseui
 Route by react-router-dom
 Loader by react-loader-spinner
 Styled by react-bootstrap
 Clock by react-live-clock
-
+</pre>
 <h1>Demo</h1>
 https://zptugrik.github.io/react-route-and-log/build/
 
