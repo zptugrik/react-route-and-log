@@ -1,5 +1,4 @@
 <h1>Introducing</h1>
-<hr/>
 Огонь на базе!
 Есть такой сервис от компании Google, как - Firebase. С помощью этого сервиса, нужно реализовать аутентификацию, которая предусмотрена из коробки.
 Основные требования: Использовать инструмент для хранения состояния (State Manager), а также клиентскую маршрутизацию. На выходе мы должны получить SPA (Single Page Application).
@@ -19,6 +18,12 @@ Browser support: Chrome and Firefox
  
 * Доп. задача, по желанию. Реализовать страничку Profile, на которой пользователь сможет изменить данные введенные при регистрации.
 
+<h1>Packages</h1>
+Log by react-firebaseui
+Route by react-router-dom
+Loader by react-loader-spinner
+Styled by react-bootstrap
+Clock by react-live-clock
 
 <h1>Demo</h1>
 https://zptugrik.github.io/react-route-and-log/build/
